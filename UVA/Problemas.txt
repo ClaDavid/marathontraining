@@ -1,0 +1,8 @@
+Problems in this dir:
+Jolly Jumpers
+Hartals
+Contest Scoreboard
+The 3n + 1 problem
+LC-Display
+Minesweeper
+CD
