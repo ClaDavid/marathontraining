@@ -1,0 +1,46 @@
+Problems in this dir:
+Pontes de Sao Petersburgo
+Estradas Escuras
+ir e vir
+Alarme despertador
+Dama
+Highest and Position
+multiplos
+coordenadas de um ponto
+formula bhaskara
+festival de estatuas de gelo
+fibonacci quantas chamadas
+conversao de tempo
+cedulas
+gasto de combustivel
+distancia
+distancia entre dois pontos
+consumo
+o maior
+area
+esfera
+calculo simples
+salario com bonus
+salario
+diferenca
+media 2
+media 1
+produto simples
+soma simples
+area do circulo
+extremamente basico
+lista de chamada
+matrizes
+promessa de campanha
+cortando canos
+o troco
+contando carneirinhos
+mergulho
+esquerda, volver
+ele esta impedido
+Gerando Permutações Ordenadas Rapidamente
+sudoku
+lucro
+motoboy
+comparacao de substring
+festa de sao petersburgo
